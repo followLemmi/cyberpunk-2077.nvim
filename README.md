@@ -6,17 +6,17 @@ This theme was fully created by [Claude](https://claude.ai), Anthropic's AI assi
 
 ## Color Palette
 
-| Color | Hex | Preview |
-|-------|-----|---------|
-| Raisin Black | `#272932` | Background |
-| Blood Red | `#710000` | Dark red accents |
-| Rich Lemon | `#FDF500` | Strings, warnings |
-| Keppel | `#1AC5B0` | Functions |
-| Electric Blue | `#37EBF3` | Keywords, UI elements |
-| Blushing Purple | `#9370DB` | Types |
-| Frostbite | `#E455AE` | Constants, operators |
-| Steel Pink | `#CB1DCD` | Keywords |
-| Pale Silver | `#D1C5C0` | Foreground text |
+| Color | Hex | Preview | Usage |
+|-------|-----|---------|-------|
+| Raisin Black | `#272932` | ![#272932](https://img.shields.io/badge/-%23272932-272932?style=flat-square) | Background |
+| Blood Red | `#710000` | ![#710000](https://img.shields.io/badge/-%23710000-710000?style=flat-square) | Dark red accents |
+| Rich Lemon | `#FDF500` | ![#FDF500](https://img.shields.io/badge/-%23FDF500-FDF500?style=flat-square) | Strings, warnings |
+| Keppel | `#1AC5B0` | ![#1AC5B0](https://img.shields.io/badge/-%231AC5B0-1AC5B0?style=flat-square) | Functions |
+| Electric Blue | `#37EBF3` | ![#37EBF3](https://img.shields.io/badge/-%2337EBF3-37EBF3?style=flat-square) | Keywords, UI elements |
+| Blushing Purple | `#9370DB` | ![#9370DB](https://img.shields.io/badge/-%239370DB-9370DB?style=flat-square) | Types |
+| Frostbite | `#E455AE` | ![#E455AE](https://img.shields.io/badge/-%23E455AE-E455AE?style=flat-square) | Constants, operators |
+| Steel Pink | `#CB1DCD` | ![#CB1DCD](https://img.shields.io/badge/-%23CB1DCD-CB1DCD?style=flat-square) | Keywords |
+| Pale Silver | `#D1C5C0` | ![#D1C5C0](https://img.shields.io/badge/-%23D1C5C0-D1C5C0?style=flat-square) | Foreground text |
 
 ## Installation
 
