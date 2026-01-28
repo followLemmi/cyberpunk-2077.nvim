@@ -4,6 +4,10 @@ A dark Neovim colorscheme inspired by the Cyberpunk 2077 color palette.
 
 This theme was fully created by [Claude](https://claude.ai), Anthropic's AI assistant.
 
+## Screenshots
+![](./screenshots/code-example.png) 
+![](./screenshots/telescope-example.png)
+
 ## Color Palette
 
 | Color | Hex | Preview | Usage |
